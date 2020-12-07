@@ -1,0 +1,2 @@
+C:\Users\Baldwin\source\repos\techtest\AnyCompany.UnitTests\obj\Debug\AnyCompany.UnitTests.csprojAssemblyReference.cache
+C:\Users\Baldwin\source\repos\techtest\AnyCompany.UnitTests\obj\Debug\AnyCompany.UnitTests.csproj.CoreCompileInputs.cache

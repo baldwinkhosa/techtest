@@ -1,0 +1,14 @@
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\AnyCompany.dll.config
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\AnyCompany.dll
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\AnyCompany.pdb
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\EntityFramework.dll
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\Ninject.dll
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\EntityFramework.xml
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\bin\Debug\Ninject.xml
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\obj\Debug\AnyCompany.csprojAssemblyReference.cache
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\obj\Debug\AnyCompany.csproj.CoreCompileInputs.cache
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\obj\Debug\AnyCompany.csproj.CopyComplete
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\obj\Debug\AnyCompany.dll
+C:\Users\Baldwin\Source\Repos\techtest\AnyCompany\obj\Debug\AnyCompany.pdb
